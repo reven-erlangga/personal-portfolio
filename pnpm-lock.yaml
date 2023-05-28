@@ -28,7 +28,7 @@ devDependencies:
     specifier: 20.2.5
     version: 20.2.5
   '@types/react':
-    specifier: 18.2.7
+    specifier: ^18.2.7
     version: 18.2.7
   '@types/uuid':
     specifier: ^9.0.1
