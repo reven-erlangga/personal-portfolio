@@ -7,7 +7,7 @@ import BootcampCard from "./components/card/BootcampCard";
 const bootcamps = [
     {
         key: "bootcamp-" + randomUUID,
-        title: "MERN Stack: Fullstack Developer",
+        title: "Fullstack Developer (Node JS + React JS)",
         assetPath: "/assets/logo/harisenin.jpg",
         docUrl: "https://drive.google.com/file/d/1F8hVgRsf0eNX8Pu94Vtgina_QUBGz3LA/view",
         projectUrl: "https://github.com/reven-erlangga/vouchify",
