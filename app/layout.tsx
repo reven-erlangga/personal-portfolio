@@ -20,7 +20,9 @@ const links = [
     href: "/experiences",
   },
   { key: "link-3", label: "Projects", icon: "attach_file", href: "/projects" },
-  { key: "link-4", label: "Contact", icon: "contact_page", href: "/contact" },
+  { key: "link-4", label: "Course", icon: "library_books", href: "/courses" },
+  { key: "link-5", label: "Bootcamp", icon: "groups", href: "/bootcamp" },
+  { key: "link-6", label: "Contact", icon: "contact_page", href: "/contact" },
 ];
 
 export default function RootLayout({

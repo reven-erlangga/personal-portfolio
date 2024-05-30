@@ -16,7 +16,7 @@ const ExperienceCard = ({ title, location, workingYear, children }: Props) => {
           <div>
             <div className="flex flex-col gap-2">
               <p>{title}</p>
-              <p className="text-sm">{location}</p>
+              <p className="text-base">{location}</p>
             </div>
           </div>
           <p className="text-right">{workingYear}</p>
